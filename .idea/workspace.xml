@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SsEducation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/util/Draw2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex03_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days03/Ex05_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex07_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex07_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex08_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days04/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex07_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex09_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days05/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex03_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex03_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex04_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex06_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/FrequencyAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/RepeatPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days06/asdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex02_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex06_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex06_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex06_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days07/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Ex05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Repeat02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days08/Repeat03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex03_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex04_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex04_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days09/Repeat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex04_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days10/Repeat02.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iiXV7ioDM1VaMqz30MoGJIFsEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="days10" />
+      <recent name="days09" />
+      <recent name="days08" />
+      <recent name="days07" />
+      <recent name="days05" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex01_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days04.Ex01_03" />
+      <module name="SsEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex01_03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="" />
+      <created>1719974392015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719974392015</updated>
+      <workItem from="1719974393077" duration="21289000" />
+      <workItem from="1720056082158" duration="33227000" />
+      <workItem from="1720150897604" duration="22415000" />
+      <workItem from="1720404279629" duration="16802000" />
+      <workItem from="1720423689129" duration="4011000" />
+      <workItem from="1720428017060" duration="100000" />
+      <workItem from="1720428147052" duration="434000" />
+      <workItem from="1720428639109" duration="110000" />
+      <workItem from="1720428790907" duration="20953000" />
+      <workItem from="1720494265513" duration="6628000" />
+      <workItem from="1720503436981" duration="4254000" />
+      <workItem from="1720507735078" duration="2758000" />
+      <workItem from="1720568816942" duration="6700000" />
+      <workItem from="1720575563809" duration="55281000" />
+      <workItem from="1720716932723" duration="4318000" />
+      <workItem from="1720741119259" duration="35750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
