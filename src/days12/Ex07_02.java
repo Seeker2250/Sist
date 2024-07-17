@@ -5,7 +5,7 @@ package days12;
  */
 public class Ex07_02 {
   public static void main(String[] args) {
-    //    call by value
+//    call by value
 //    call by value
 //    call by reference
     int[] m = {10, 20};

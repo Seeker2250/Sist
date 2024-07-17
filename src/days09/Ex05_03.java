@@ -11,15 +11,15 @@ public class Ex05_03 {
 //      System.out.printf("m[%d]=%d", i, m[i]);
 //    }
 //    System.out.println();
-
-
+//
+//
 //    1차원 배열 초기화
 //    int [] m = {}
 //    2차원 배열 초기화
 //    int [][] m
 //
 //    2차원 배열 행, 열
-
+//
 //    int[][] m = new int[2][4];
 //    System.out.println(m.length);//행 갯수->항상 무조건 열 갯수가 아니야 그건 1차원 배열에서만
 //    System.out.println(m[0].length);//0번째 행의 열 갯수

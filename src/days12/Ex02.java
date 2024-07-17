@@ -12,10 +12,10 @@ public class Ex02 {
      *    Class : object의 설계도
      *    intance : 어떤 class로부터 비롯된 object?->좀 더 소프트웨어적
      *    object : class에서 찍힌 실체->좀 더 현실적, attribute + function
-     *            class로 실존한ㄴ 것, 유형 or 무형
+     *            class로 실존하는 것, 유형 or 무형
      *    instantiate : class로 object 생성
      *
-     *    class design : 1) 객체의 구성 요소(attribute, function)파악, 목록 작성
+     *    class design : 1) 객체의 구성 요소(property, function)파악, 목록 작성
      *                   2) declare
      *                   3) object 생성
      *                   4) test
