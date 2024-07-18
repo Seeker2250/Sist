@@ -13,7 +13,7 @@ public class Tv {
   public String color = null;
 //  member function == method == function
 
-  public void power(){
+  public void power() {
     power = !power;
   }
 

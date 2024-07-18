@@ -23,6 +23,7 @@ public class Ex02 {
                          6) 상용화 - deployment
                          7) Version control(기능 추가, 보수)
                          *
+     * 관계 : is-a, has-a
      **/
   }
 }

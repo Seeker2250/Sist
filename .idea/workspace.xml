@@ -4,31 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="class에 대한 설명&#10;reference type에 대한 설명&#10;deep copy, shallow copy, clone">
-      <change afterPath="$PROJECT_DIR$/src/days12/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/BlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Point2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days13/Time.java" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Initialization block, constructor">
+      <change afterPath="$PROJECT_DIR$/src/days14/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Ex11_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/Regular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/RepeatYesterday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days14/RepeatYesterday_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SsEducation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SsEducation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days09/Ex05_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days09/Ex05_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days09/Ex05_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days09/Ex05_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days10/Repeat02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days10/Repeat02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/days12/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days12/Ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days12/Ex07_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days12/Ex07_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days12/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days12/Tv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +78,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="days14" />
       <recent name="days13" />
       <recent name="days10" />
       <recent name="days09" />
       <recent name="days08" />
-      <recent name="days07" />
     </key>
   </component>
   <component name="RunManager">
@@ -163,6 +159,7 @@
       <workItem from="1721173575623" duration="18579000" />
       <workItem from="1721195595308" duration="3648000" />
       <workItem from="1721199288699" duration="6398000" />
+      <workItem from="1721285610169" duration="6652000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
