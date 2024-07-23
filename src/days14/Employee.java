@@ -3,7 +3,7 @@ package days14;
 
 //사원 클래스
 //모든 사원이 공통적으로 가지고 있을 멤버들을 선언
-public class Employee {
+public abstract class Employee {
   //fields
   private String name;//사원명
   private String addr;//주소
@@ -64,4 +64,9 @@ public class Employee {
     System.out.printf("사원명 : %s, 주소 : %s 연락처 : %s 입사일자 : %s\n", this.name, this.addr, this.tel, this.hiredate);
   }
 
+  //getPay()만들면 사원 종류 따라 급여 산정 방식이 다르니까 다시 만들거야 그러니까 안 만들어
+//  근데 이러면 Employee에서 호출 안하면 계속 만들어야 하네? 그러니까 그냥 틀만 만들어두자.
+  public abstract int getPay();//body가 없는 method, abstract
+
 }
+

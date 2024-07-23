@@ -35,6 +35,14 @@ public class Point {
     System.out.println("현재 x 좌표는 : " + x + ", y좌표는 : " + y + " 입니다.");
   }
 
+  @Override//굳이 위에꺼 안 써도 이렇게 Override 쓰면 돼!
+  public String toString() {
+    return "Point{" +
+        "x=" + x +
+        ", y=" + y +
+        '}';
+  }
+
   //  p1.plusPoint(p2)
   public void plusPoint(Point p) {//인자를 객체(참조형 변수)를 줬어
     x = x + p.x;//호출한 놈꺼에 인자를 더해
