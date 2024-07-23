@@ -4,66 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Dependency, up &amp; down casting">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/HEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/KEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/SEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/SalesMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days15/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/CutOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex01_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex02_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex03_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex05_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex05_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex05_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex07_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex07_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/SS21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days16/ScoreOutOfboundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex01_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex01_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/SS21_Team.txt" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="forgot...">
+      <change afterPath="$PROJECT_DIR$/src/days17/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex07_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days17/Ex09_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days12/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days12/Tv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days13/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days13/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days14/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days14/Ex11_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days14/Ex11_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +161,7 @@
       <workItem from="1721348929962" duration="342000" />
       <workItem from="1721349350738" duration="96000" />
       <workItem from="1721349615234" duration="32146000" />
-      <workItem from="1721615274769" duration="35675000" />
+      <workItem from="1721615274769" duration="51767000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
@@ -241,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721345306490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="forgot...">
+      <option name="closed" value="true" />
+      <created>1721705347560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721705347560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +236,8 @@
     <MESSAGE value="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서" />
     <MESSAGE value="class에 대한 설명&#10;reference type에 대한 설명&#10;deep copy, shallow copy, clone" />
     <MESSAGE value="Dependency, up &amp; down casting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency, up &amp; down casting" />
+    <MESSAGE value="forgot..." />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
