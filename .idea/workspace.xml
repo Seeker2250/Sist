@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="forgot...">
-      <change afterPath="$PROJECT_DIR$/src/days17/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex07_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex08_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days17/Ex09_02.java" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="&#10;Calendar, repeat">
+      <change afterPath="$PROJECT_DIR$/src/days17/asdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex02_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex02_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Ex03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days18/Repeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days17/Ex08_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days17/Ex08_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,7 @@
       <workItem from="1721348929962" duration="342000" />
       <workItem from="1721349350738" duration="96000" />
       <workItem from="1721349615234" duration="32146000" />
-      <workItem from="1721615274769" duration="51767000" />
+      <workItem from="1721615274769" duration="69962000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
@@ -203,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721705347560</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&#10;Calendar, repeat">
+      <option name="closed" value="true" />
+      <created>1721724452137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721724452137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +246,8 @@
     <MESSAGE value="class에 대한 설명&#10;reference type에 대한 설명&#10;deep copy, shallow copy, clone" />
     <MESSAGE value="Dependency, up &amp; down casting" />
     <MESSAGE value="forgot..." />
-    <option name="LAST_COMMIT_MESSAGE" value="forgot..." />
+    <MESSAGE value="&#10;Calendar, repeat" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Calendar, repeat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

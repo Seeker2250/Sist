@@ -1,5 +1,6 @@
 package days17;
 
+import java.util.Arrays;
 import java.util.Date;
 
 /**
@@ -16,6 +17,7 @@ public class Ex08_03 {
     int dayOfWeek = getDayOfWeek(year, month, date);//요일, 1(월) 날짜만큼 빼면
     int lastDay = getLastDay(year, month);
 
+    System.out.println(getDayOfWeek(year, month, date));
 //    24년도 7월 달력에 24.06.30부터 42일간 나타나있으니 이대로 출력해보자
 
     Date start = new Date(year - 1900, month-1, 1);
