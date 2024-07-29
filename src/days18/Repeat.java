@@ -2,10 +2,13 @@ package days18;
 
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
+import java.util.logging.SimpleFormatter;
 
 /**
  * @author created by Seeker2250 on 7/24/24.
@@ -13,7 +16,8 @@ import java.util.Scanner;
  * @Contents
  */
 public class Repeat {
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) throws IOException, ParseException {
+
 //    1.  년도 year를 입력받아서
 //    입력받은 년도의 1월~12월 까지의 마지막 날짜를 출력하는 코딩을 하세요.
 //    ( 조건 : Date 클래스 사용 )

@@ -45,5 +45,9 @@ public class Ex02 {
 //    Date d -> Calendar c변환
     Calendar c = Calendar.getInstance();
     c.setTime(d);
+
+
+
+
   }
 }

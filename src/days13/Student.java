@@ -15,6 +15,11 @@ public class Student {
   public int wrank;
   public double avg;
 
+  @Override
+  public String toString() {
+    return super.toString();
+  }
+
   public void dispInfo() {
     System.out.printf("%s\t%d\t%d\t%d\t%d\t%.2f\t%d\t%d\n"
         , name, kor, eng, mat, tot, avg, rank, wrank);

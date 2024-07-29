@@ -15,6 +15,7 @@ public class Ex02_03 {
 
     String newPattern = "0#가|60#양|70$미|80#우|90#수"; // 범위, 대체할 문자까지 선언
 //    ChoiceFormat cf = new ChoiceFormat(newPattern);
+//    System.out.println(cf);
 
     // 특정 범위
     double[] limits = {0, 60, 70, 80, 90};
