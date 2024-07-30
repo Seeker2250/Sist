@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"><!--이거 웹에서 열어보면 구조 나와-->
+
+<!--
+   Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+  -->
+
+<!-- DTD for properties -->
+
+<!-- <!ELEMENT properties ( comment?, entry* ) >
+
+<!ATTLIST properties version CDATA #FIXED "1.0">
+
+<!ELEMENT comment (#PCDATA) >
+
+<!ELEMENT entry (#PCDATA) >
+
+<!ATTLIST entry key CDATA #REQUIRED>
+        -->
+<!--root element가 properties, comment가 0개 or 1개, entry가 와도 좋고 안와도 좋다.(regex 참고)-->
+<!-- ATTLIST : 속성, 버전 데이터는 안 주면 고정 1.0-->
+<!-- 자식으로 Parsing can data(String)이 온다 -->
+<!-- key라는 속성이 필수다-->
+<properties>
+<comment>jdbc XML test</comment>
+<entry key="password">tiger</entry>
+<entry key="className">oracle.jdbc.driver.OracleDriver</entry>
+<entry key="user">scott</entry>
+<entry key="url">jdbc:oracle:thin:@localhost:1521:xe</entry>
+</properties>

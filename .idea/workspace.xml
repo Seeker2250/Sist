@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Generics, Collection, Stream">
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/Ex04_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days22/User.java" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Serialization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days21/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days21/Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days21/Ex06_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days21/Ex06_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +181,7 @@
       <workItem from="1721615274769" duration="83020000" />
       <workItem from="1721809993284" duration="60723000" />
       <workItem from="1722211288674" duration="10685000" />
-      <workItem from="1722222243588" duration="40912000" />
+      <workItem from="1722222243588" duration="42934000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
@@ -270,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722240657042</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Serialization">
+      <option name="closed" value="true" />
+      <created>1722340424756</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722340424756</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +301,8 @@
     <MESSAGE value="Repeat, Temporal interface and class" />
     <MESSAGE value="Formatter Class &amp; Collections" />
     <MESSAGE value="Generics, Collection, Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics, Collection, Stream" />
+    <MESSAGE value="Serialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serialization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
