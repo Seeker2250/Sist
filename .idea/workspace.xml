@@ -4,80 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Formatter Class &amp; Collections">
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex07_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex07_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex07_03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex11_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex11_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex12_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days19/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/AlgorithmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex03_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex03_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex08_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days20/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex04_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex04_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex05_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex06_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex07_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex08_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex09_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/Ex12_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days21/test.txt" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Generics, Collection, Stream">
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex02_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/Ex04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days22/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days12/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days12/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days13/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days13/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days18/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days18/Ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days18/Ex02_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days18/Ex02_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/days18/Repeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days18/Repeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days21/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days21/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days21/Ex06_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days21/Ex06_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +196,7 @@
       <workItem from="1721615274769" duration="83020000" />
       <workItem from="1721809993284" duration="60723000" />
       <workItem from="1722211288674" duration="10685000" />
-      <workItem from="1722222243588" duration="14784000" />
+      <workItem from="1722222243588" duration="40912000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
@@ -319,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721809841607</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Generics, Collection, Stream">
+      <option name="closed" value="true" />
+      <created>1722240657042</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722240657042</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,7 +307,8 @@
     <MESSAGE value="&#10;Calendar, repeat" />
     <MESSAGE value="Repeat, Temporal interface and class" />
     <MESSAGE value="Formatter Class &amp; Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatter Class &amp; Collections" />
+    <MESSAGE value="Generics, Collection, Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics, Collection, Stream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

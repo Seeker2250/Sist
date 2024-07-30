@@ -18,7 +18,9 @@ public class Ex06_02 {
     System.out.println(idx);
     String parent = sourceFile.substring(0, idx);
     System.out.println(parent);
+
     String child = sourceFile.substring(idx + 1);
+
     System.out.println(child);
     idx = child.indexOf(".");
     String fileName = child.substring(0, idx);

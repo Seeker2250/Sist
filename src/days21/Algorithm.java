@@ -1,26 +1,36 @@
 package days21;
 
-import java.util.Arrays;
-
 /**
  * @author created by Seeker2250 on 7/29/24.
  * @Subject
- * @Contents
+ * @Contents 머쓱이네 옷가게는 10만 원 이상 사면 5%, 30만 원 이상 사면 10%, 50만 원 이상 사면 20%를 할인해줍니다.
+ * 구매한 옷의 가격 price가 주어질 때, 지불해야 할 금액을 return 하도록 solution 함수를 완성해보세요.
+ * 10 ≤ price ≤ 1,000,000
+ * price는 10원 단위로(1의 자리가 0) 주어집니다.
+ * 소수점 이하를 버린 정수를 return합니다.
  */
 public class Algorithm {
-  static String b = "";
-
   public static void main(String[] args) {
-   int [] a = {1,1,2,2};
-//    solution(a);
+    solution(100010);
   }
-}
-//문자 "A"와 "B"로 이루어진 문자열 myString과 pat가 주어집니다. myString의 "A"를 "B"로,
-// "B"를 "A"로 바꾼 문자열의 연속하는 부분 문자열 중 pat이 있으면 1을 아니면 0을 return 하는 solution 함수를 완성하세요.
 
-class Solution {
-  public int solution(int[] array) {
+  public static void solution(int price) {
     int answer = 0;
-    return answer;
+    if ((300000 > price) && price >= 100000) {
+      price = price - price / 20;
+      price = (int) Math.floor(price);
+
+    } else if ((500000 > price) && price >= 300000) {
+      price = price - price / 10;
+      price = (int) Math.floor(price);
+    } else if (price >= 500000) {
+      price = price - price / 5;
+      price = (int) Math.floor(price);
+    }
+
+    System.out.println(price);
   }
 }
+
+
+
