@@ -4,9 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="Serialization">
-      <change afterPath="$PROJECT_DIR$/src/days23/Ex01.java" afterDir="false" />
+    <list default="true" id="9ce9919b-2c20-46ea-b3ad-f72bfb830435" name="Changes" comment="generics">
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex10_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex11_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days23/File08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/DisplayManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days21/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days21/Algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,32 +56,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/junst/SsEducation/src/days15&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Diagrams&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/junst/SsEducation/src/days23",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/days23" />
       <recent name="$PROJECT_DIR$/src/days15" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -73,7 +93,7 @@
       <recent name="days14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex04">
+  <component name="RunManager">
     <configuration name="Ex01_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="days04.Ex01_03" />
       <module name="SsEducation" />
@@ -188,6 +208,13 @@
       <workItem from="1722394291469" duration="167000" />
       <workItem from="1722394507186" duration="598000" />
       <workItem from="1722395638275" duration="388000" />
+      <workItem from="1722397405935" duration="1492000" />
+      <workItem from="1722402546090" duration="488000" />
+      <workItem from="1722403360641" duration="2494000" />
+      <workItem from="1722469919847" duration="7385000" />
+      <workItem from="1722483880387" duration="53000" />
+      <workItem from="1722484014917" duration="39000" />
+      <workItem from="1722484072473" duration="25188000" />
     </task>
     <task id="LOCAL-00001" summary="커밋 메시지 엄청 자세하게 적는 예시. IntelliJ에서 이렇게 하고나서">
       <option name="closed" value="true" />
@@ -269,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722340424756</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="generics">
+      <option name="closed" value="true" />
+      <created>1722397440613</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722397440613</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +343,8 @@
     <MESSAGE value="Formatter Class &amp; Collections" />
     <MESSAGE value="Generics, Collection, Stream" />
     <MESSAGE value="Serialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serialization" />
+    <MESSAGE value="generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
